@@ -1,0 +1,24 @@
+{
+    "Format": "2.0.0",
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Objects",
+            "Entries": {
+                "J0skin.Bourbon": {
+                    "Name": "J0skin.Bourbon",
+                    "DisplayName": "Bourbon",
+                    "Description": "A bottle of Bourbon",
+                    "Type": "Object",
+                    "Category": "-26",
+                    "Price": 100,
+                    "Texture": "Maps/springobjects",
+                    "SpriteIndex": 350,
+                    "Edibility": 0,
+                    "IsDrink": true,
+                    "ExcludeFromRandomSale": true
+                }
+            }
+        }
+    ]
+}

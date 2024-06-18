@@ -1,0 +1,13 @@
+{
+    "Name": "Mixology",
+    "Author": "J0skin",
+    "Version": "1.0.0",
+    "Description": "This is a mod which adds mixology to Stardew Valley. This includes distilling spirits and mixing cocktails.",
+    "UniqueID": "J0skin.Mixology",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher",
+        "MinimumVersion": "2.2.0"
+    },
+    "MinimumApiVersion": "4.0.8"
+}
